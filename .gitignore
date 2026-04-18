@@ -4,3 +4,11 @@ dist/
 *.log
 .env
 .DS_Store
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.db
+mafia.db
+nul
